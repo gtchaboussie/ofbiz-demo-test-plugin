@@ -6,7 +6,6 @@ public class TestClass {
 
     @Test
     public void test() {
-        String foo = "bar";
-        assert foo.equals("bar");
+        assert false;
     }
 }
